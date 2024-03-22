@@ -2,7 +2,7 @@
 
 ## Introduction
 FOD(Foreign Object Debris) Detection: 군 공항내에 위치하는 활주로 파편인 FOD를 검출하여 제거한다. 
-Camera와 Radar를 모두 이용하여 2*2*2(cm)의 작은 크기의 물체를 검출하는 것이 목적이다.
+Camera와 Radar를 모두 이용하여 2x2x2(cm)의 작은 크기의 물체를 검출하는 것이 목적이다.
 
 #### 조건
 + Real-Time Object Detection
@@ -18,5 +18,5 @@ Camera와 Radar를 모두 이용하여 2*2*2(cm)의 작은 크기의 물체를 �
 
 
 ### Lightweighting Methods
-1.
-2. 
+1. Knowledge Distillation
+2. etc..
