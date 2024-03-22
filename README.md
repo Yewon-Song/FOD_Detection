@@ -14,7 +14,8 @@ Camera와 Radar를 모두 이용하여 2x2x2(cm)의 작은 크기의 물체를 �
  
 ## Environment
 1. 보드: NVIDIA Jetson Orin AGX
-2. 차량: FOD 검출 자율주행 차량 (사내 자체 제작 로봇)
+2. Camera: Orin Camera 3대 or Global Shutter Camera
+3. 차량: FOD 검출 자율주행 차량 (사내 자체 제작 로봇)
 
 
 ### Lightweighting Methods
